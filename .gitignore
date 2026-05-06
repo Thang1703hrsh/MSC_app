@@ -1,0 +1,12 @@
+# Bỏ qua các file trọng số mô hình
+*.h5
+*.weights.h5
+
+# Bỏ qua các thư mục tạm của Python và IDE
+__pycache__/
+.venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+resunet50_aspp_best.weights.h5
